@@ -2,3 +2,5 @@ first file
 Adding new line
 
 Added second line
+
+Added third line
